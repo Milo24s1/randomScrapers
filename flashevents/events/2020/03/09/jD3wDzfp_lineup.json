@@ -1,0 +1,386 @@
+{
+    "Starting Lineups": [
+        {
+            "side": "left",
+            "time": "11",
+            "player": "Barkov D.",
+            "playerSlug": "/player/barkov-dmitri/84eENOJs",
+            "subPlayer": "Skvortsov A.",
+            "subPlayerSlug": "/player/skvortsov-aleksey/lGjJieWO"
+        },
+        {
+            "side": "right",
+            "time": "9",
+            "player": "Dolgov P.",
+            "playerSlug": "/player/dolgov-pavel/h8961VvH",
+            "subPlayer": "Tlupov I.",
+            "subPlayerSlug": "/player/tlupov-islam/8bniebNq"
+        },
+        {
+            "side": "left",
+            "time": "87",
+            "player": "Bozhenov K.",
+            "playerSlug": "/player/bozhenov-kirill/S4xTS2Ug",
+            "subPlayer": null,
+            "subPlayerSlug": null
+        },
+        {
+            "side": "right",
+            "time": "29",
+            "player": "Gorbatyuk A.",
+            "playerSlug": "/player/gorbatyuk-aleksandr/YFYE9pmC",
+            "subPlayer": null,
+            "subPlayerSlug": null
+        },
+        {
+            "side": "left",
+            "time": "15",
+            "player": "Danilkin E.",
+            "playerSlug": "/player/danilkin-egor/671XDGe0",
+            "subPlayer": null,
+            "subPlayerSlug": null
+        },
+        {
+            "side": "right",
+            "time": "12",
+            "player": "Ivanov A.",
+            "playerSlug": "/player/ivanov-andrey/tUTH47i8",
+            "subPlayer": null,
+            "subPlayerSlug": null
+        },
+        {
+            "side": "left",
+            "time": "33",
+            "player": "Gapon E.",
+            "playerSlug": "/player/gapon-evgenij/6ijfZ8Af",
+            "subPlayer": null,
+            "subPlayerSlug": null
+        },
+        {
+            "side": "right",
+            "time": "24",
+            "player": "Kakkoev N.",
+            "playerSlug": "/player/kakkoev-nikita/trgIlu3e",
+            "subPlayer": "Andreev I.",
+            "subPlayerSlug": "/player/andreev-ivan/CQZhCYJk"
+        },
+        {
+            "side": "left",
+            "time": "1",
+            "player": "Khomich D",
+            "playerSlug": "/player/khomich-dmitri/OKk2TnlI",
+            "subPlayer": null,
+            "subPlayerSlug": null
+        },
+        {
+            "side": "right",
+            "time": "10",
+            "player": "Kazankov M.",
+            "playerSlug": "/player/kazankov-maksim/EF1I4oop",
+            "subPlayer": null,
+            "subPlayerSlug": null
+        },
+        {
+            "side": "left",
+            "time": "23",
+            "player": "Koryan A.",
+            "playerSlug": "/player/koryan-arshak/0YjsCJoJ",
+            "subPlayer": "Georgievsky S.",
+            "subPlayerSlug": "/player/georgievsky-svyatoslav/KMes82T6"
+        },
+        {
+            "side": "right",
+            "time": "21",
+            "player": "Kireenko P.",
+            "playerSlug": "/player/kireenko-pavel/UFHYXJzC",
+            "subPlayer": "Akhyadov A.",
+            "subPlayerSlug": "/player/akhyadov-apti/tf5S7RtF"
+        },
+        {
+            "side": "left",
+            "time": "9",
+            "player": "Martusevich M.",
+            "playerSlug": "/player/martusevich-maksim/8KF9cxpi",
+            "subPlayer": null,
+            "subPlayerSlug": null
+        },
+        {
+            "side": "right",
+            "time": "5",
+            "player": "Rukas A.",
+            "playerSlug": "/player/rukas-andrius/65G5gPoj",
+            "subPlayer": null,
+            "subPlayerSlug": null
+        },
+        {
+            "side": "left",
+            "time": "14",
+            "player": "Polyarus A.",
+            "playerSlug": "/player/polyarus-artem/2RxD2AE2",
+            "subPlayer": "Aliev K.",
+            "subPlayerSlug": "/player/aliev-kamran/pMKn8D87"
+        },
+        {
+            "side": "right",
+            "time": "18",
+            "player": "Shalaev O",
+            "playerSlug": "/player/shalaev-oleg/6io8xeQC",
+            "subPlayer": "Buranov D.",
+            "subPlayerSlug": "/player/buranov-danila/AmluLEU7"
+        },
+        {
+            "side": "left",
+            "time": "96",
+            "player": "Smirnov A.",
+            "playerSlug": "/player/smirnov-aleksandr/EP0arb8p",
+            "subPlayer": null,
+            "subPlayerSlug": null
+        },
+        {
+            "side": "right",
+            "time": "72",
+            "player": "Sinyak A.",
+            "playerSlug": "/player/sinyak-anton/lCM4NrM7",
+            "subPlayer": null,
+            "subPlayerSlug": null
+        },
+        {
+            "side": "left",
+            "time": "6",
+            "player": "Tikhiy D.",
+            "playerSlug": "/player/tikhiy-dmitriy/2TDLVCC0",
+            "subPlayer": null,
+            "subPlayerSlug": null
+        },
+        {
+            "side": "right",
+            "time": "1",
+            "player": "Vavilin D",
+            "playerSlug": "/player/vavilin-denis/jgptM92i",
+            "subPlayer": null,
+            "subPlayerSlug": null
+        },
+        {
+            "side": "left",
+            "time": "5",
+            "player": "Troshechkin A.",
+            "playerSlug": "/player/troshechkin-aleksandr/I5oiZOSp",
+            "subPlayer": null,
+            "subPlayerSlug": null
+        },
+        {
+            "side": "right",
+            "time": "17",
+            "player": "Viznovich I.",
+            "playerSlug": "/player/viznovich-ilya/Cjqyh8sJ",
+            "subPlayer": "Pletnev D.",
+            "subPlayerSlug": "/player/pletnev-dmitri/EPtm3BUd"
+        }
+    ],
+    "Substitutes": [
+        {
+            "side": "left",
+            "time": "10",
+            "player": "Aliev K.",
+            "playerSlug": "/player/aliev-kamran/pMKn8D87",
+            "subPlayer": "Polyarus A.",
+            "subPlayerSlug": "/player/polyarus-artem/2RxD2AE2"
+        },
+        {
+            "side": "right",
+            "time": "95",
+            "player": "Akhyadov A.",
+            "playerSlug": "/player/akhyadov-apti/tf5S7RtF",
+            "subPlayer": "Kireenko P.",
+            "subPlayerSlug": "/player/kireenko-pavel/UFHYXJzC"
+        },
+        {
+            "side": "left",
+            "time": "99",
+            "player": "Evdokimov A.",
+            "playerSlug": "/player/evdokimov-andrey/0dPfqAYj",
+            "subPlayer": null,
+            "subPlayerSlug": null
+        },
+        {
+            "side": "right",
+            "time": "8",
+            "player": "Andreev I.",
+            "playerSlug": "/player/andreev-ivan/CQZhCYJk",
+            "subPlayer": "Kakkoev N.",
+            "subPlayerSlug": "/player/kakkoev-nikita/trgIlu3e"
+        },
+        {
+            "side": "left",
+            "time": "35",
+            "player": "Generalov E. (G)",
+            "playerSlug": "/player/generalov-egor/6ZkqILB1",
+            "subPlayer": null,
+            "subPlayerSlug": null
+        },
+        {
+            "side": "right",
+            "time": "88",
+            "player": "Buranov D.",
+            "playerSlug": "/player/buranov-danila/AmluLEU7",
+            "subPlayer": "Shalaev O.",
+            "subPlayerSlug": "/player/shalaev-oleg/6io8xeQC"
+        },
+        {
+            "side": "left",
+            "time": "3",
+            "player": "Georgievsky S.",
+            "playerSlug": "/player/georgievsky-svyatoslav/KMes82T6",
+            "subPlayer": "Koryan A.",
+            "subPlayerSlug": "/player/koryan-arshak/0YjsCJoJ"
+        },
+        {
+            "side": "right",
+            "time": "93",
+            "player": "Kalenkovich V.",
+            "playerSlug": "/player/kalenkovich-vitaly/OOL6iqF9",
+            "subPlayer": null,
+            "subPlayerSlug": null
+        },
+        {
+            "side": "left",
+            "time": "97",
+            "player": "Kamenshchikov D.",
+            "playerSlug": "/player/kamenshchikov-dmitri/UeRUhx1a",
+            "subPlayer": null,
+            "subPlayerSlug": null
+        },
+        {
+            "side": "right",
+            "time": "4",
+            "player": "Lisinkov A.",
+            "playerSlug": "/player/lisinkov-aydar/6T20cm12",
+            "subPlayer": null,
+            "subPlayerSlug": null
+        },
+        {
+            "side": "left",
+            "time": "24",
+            "player": "Konate M.",
+            "playerSlug": "/player/konate-mohamed/SY5sOuMD",
+            "subPlayer": null,
+            "subPlayerSlug": null
+        },
+        {
+            "side": "right",
+            "time": "98",
+            "player": "Pletnev D.",
+            "playerSlug": "/player/pletnev-dmitri/EPtm3BUd",
+            "subPlayer": "Viznovich I.",
+            "subPlayerSlug": "/player/viznovich-ilya/Cjqyh8sJ"
+        },
+        {
+            "side": "left",
+            "time": "8",
+            "player": "Mishukov B.",
+            "playerSlug": "/player/mishukov-bogdan/zXKXQTJN",
+            "subPlayer": null,
+            "subPlayerSlug": null
+        },
+        {
+            "side": "right",
+            "time": "22",
+            "player": "Shurygin I.",
+            "playerSlug": "/player/shurygin-ilya/hM62LGC2",
+            "subPlayer": null,
+            "subPlayerSlug": null
+        },
+        {
+            "side": "left",
+            "time": "17",
+            "player": "Proshkin E.",
+            "playerSlug": "/player/proshkin-egor/O8owA5y4",
+            "subPlayer": null,
+            "subPlayerSlug": null
+        },
+        {
+            "side": "right",
+            "time": "30",
+            "player": "Siukaev A. (G)",
+            "playerSlug": "/player/siukaev-arsen/EH66PJv1",
+            "subPlayer": null,
+            "subPlayerSlug": null
+        },
+        {
+            "side": "left",
+            "time": "92",
+            "player": "Skvortsov A.",
+            "playerSlug": "/player/skvortsov-aleksey/lGjJieWO",
+            "subPlayer": "Barkov D.",
+            "subPlayerSlug": "/player/barkov-dmitri/84eENOJs"
+        },
+        {
+            "side": "right",
+            "time": "11",
+            "player": "Tlupov I.",
+            "playerSlug": "/player/tlupov-islam/8bniebNq",
+            "subPlayer": "Dolgov P.",
+            "subPlayerSlug": "/player/dolgov-pavel/h8961VvH"
+        },
+        {
+            "side": "left",
+            "time": "95",
+            "player": "Umaev I.",
+            "playerSlug": "/player/umaev-idris/SzJltITK",
+            "subPlayer": null,
+            "subPlayerSlug": null
+        },
+        {
+            "side": "right",
+            "time": "3",
+            "player": "Yediev I.",
+            "playerSlug": "/player/yediev-ismail/I9fxPGhd",
+            "subPlayer": null,
+            "subPlayerSlug": null
+        },
+        {
+            "side": "left",
+            "time": "7",
+            "player": "Zaseev G.",
+            "playerSlug": "/player/zaseev-gela/j7R3jklO",
+            "subPlayer": null,
+            "subPlayerSlug": null
+        },
+        {
+            "side": "right",
+            "time": "39",
+            "player": "Zapryagaev V.",
+            "playerSlug": "/player/zapryagaev-vasili/jywzZ6Kh",
+            "subPlayer": null,
+            "subPlayerSlug": null
+        }
+    ],
+    "Coaches": [
+        {
+            "side": "left",
+            "name": "Yuran S.",
+            "coachSlug": "/player/yuran-sergey/C8gNP1Xt"
+        },
+        {
+            "side": "right",
+            "name": "Baskakov V.",
+            "coachSlug": "/player/baskakov-vasili/YcLtxLdb"
+        }
+    ],
+    "Captains": [
+        {
+            "side": "left",
+            "playerName": "Khomich D",
+            "playerSlug": "/player/khomich-dmitri/OKk2TnlI"
+        },
+        {
+            "side": "right",
+            "playerName": "Shalaev O",
+            "playerSlug": "/player/shalaev-oleg/6io8xeQC"
+        }
+    ],
+    "Formation": {
+        "left": "3 - 4 - 3",
+        "right": "4 - 4 - 2"
+    }
+}
