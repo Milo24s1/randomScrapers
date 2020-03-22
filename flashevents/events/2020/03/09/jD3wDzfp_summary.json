@@ -1,0 +1,162 @@
+[
+    {
+        "teamType": "home",
+        "time": "16'",
+        "incidentType": "card",
+        "cardDetail": {
+            "playerName": "Tikhiy D.",
+            "playerSlug": "/player/tikhiy-dmitriy/2TDLVCC0"
+        }
+    },
+    {
+        "teamType": "away",
+        "time": "26'",
+        "incidentType": "card",
+        "cardDetail": {
+            "playerName": "Shalaev O.",
+            "playerSlug": "/player/shalaev-oleg/6io8xeQC"
+        }
+    },
+    {
+        "teamType": "away",
+        "time": "27'",
+        "incidentType": "substitution",
+        "substitutionDetail": {
+            "playerInName": "Akhyadov A.",
+            "playerOutName": "Kireenko P. ",
+            "playerInSlug": "/player/akhyadov-apti/tf5S7RtF",
+            "playerOutSlug": "/player/kireenko-pavel/UFHYXJzC"
+        }
+    },
+    {
+        "teamType": "home",
+        "time": "45+2'",
+        "incidentType": "goal",
+        "goalDetail": {
+            "playerName": "Barkov D.",
+            "playerSlug": "/player/barkov-dmitri/84eENOJs"
+        }
+    },
+    {
+        "teamType": "away",
+        "time": "61'",
+        "incidentType": "card",
+        "cardDetail": {
+            "playerName": "Kakkoev N.",
+            "playerSlug": "/player/kakkoev-nikita/trgIlu3e"
+        }
+    },
+    {
+        "teamType": "away",
+        "time": "68'",
+        "incidentType": "card",
+        "cardDetail": {
+            "playerName": "Dolgov P.",
+            "playerSlug": "/player/dolgov-pavel/h8961VvH"
+        }
+    },
+    {
+        "teamType": "home",
+        "time": "70'",
+        "incidentType": "goal",
+        "goalDetail": {
+            "playerName": "Smirnov A.",
+            "playerSlug": "/player/smirnov-aleksandr/EP0arb8p"
+        }
+    },
+    {
+        "teamType": "away",
+        "time": "71'",
+        "incidentType": "substitution",
+        "substitutionDetail": {
+            "playerInName": "Tlupov I.",
+            "playerOutName": "Dolgov P. ",
+            "playerInSlug": "/player/tlupov-islam/8bniebNq",
+            "playerOutSlug": "/player/dolgov-pavel/h8961VvH"
+        }
+    },
+    {
+        "teamType": "home",
+        "time": "72'",
+        "incidentType": "substitution",
+        "substitutionDetail": {
+            "playerInName": "Aliev K.",
+            "playerOutName": " Polyarus A.",
+            "playerInSlug": "/player/aliev-kamran/pMKn8D87",
+            "playerOutSlug": "/player/polyarus-artem/2RxD2AE2"
+        }
+    },
+    {
+        "teamType": "away",
+        "time": "74'",
+        "incidentType": "substitution",
+        "substitutionDetail": {
+            "playerInName": "Buranov D.",
+            "playerOutName": "Shalaev O. ",
+            "playerInSlug": "/player/buranov-danila/AmluLEU7",
+            "playerOutSlug": "/player/shalaev-oleg/6io8xeQC"
+        }
+    },
+    {
+        "teamType": "away",
+        "time": "75'",
+        "incidentType": "card",
+        "cardDetail": {
+            "playerName": "Tlupov I.",
+            "playerSlug": "/player/tlupov-islam/8bniebNq"
+        }
+    },
+    {
+        "teamType": "home",
+        "time": "75'",
+        "incidentType": "substitution",
+        "substitutionDetail": {
+            "playerInName": "Skvortsov A.",
+            "playerOutName": " Barkov D.",
+            "playerInSlug": "/player/skvortsov-aleksey/lGjJieWO",
+            "playerOutSlug": "/player/barkov-dmitri/84eENOJs"
+        }
+    },
+    {
+        "teamType": "home",
+        "time": "76'",
+        "incidentType": "goal",
+        "goalDetail": {
+            "playerName": "Smirnov A.",
+            "playerSlug": "/player/smirnov-aleksandr/EP0arb8p"
+        }
+    },
+    {
+        "teamType": "away",
+        "time": "77'",
+        "incidentType": "substitution",
+        "substitutionDetail": {
+            "playerInName": "Pletnev D.",
+            "playerOutName": "Viznovich I. ",
+            "playerInSlug": "/player/pletnev-dmitri/EPtm3BUd",
+            "playerOutSlug": "/player/viznovich-ilya/Cjqyh8sJ"
+        }
+    },
+    {
+        "teamType": "home",
+        "time": "78'",
+        "incidentType": "substitution",
+        "substitutionDetail": {
+            "playerInName": "Georgievsky S.",
+            "playerOutName": " Koryan A.",
+            "playerInSlug": "/player/georgievsky-svyatoslav/KMes82T6",
+            "playerOutSlug": "/player/koryan-arshak/0YjsCJoJ"
+        }
+    },
+    {
+        "teamType": "away",
+        "time": "85'",
+        "incidentType": "substitution",
+        "substitutionDetail": {
+            "playerInName": "Andreev I.",
+            "playerOutName": "Kakkoev N. ",
+            "playerInSlug": "/player/andreev-ivan/CQZhCYJk",
+            "playerOutSlug": "/player/kakkoev-nikita/trgIlu3e"
+        }
+    }
+]
