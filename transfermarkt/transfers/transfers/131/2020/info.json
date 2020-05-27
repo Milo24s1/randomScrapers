@@ -1,0 +1,182 @@
+{
+    "arrivals": [
+        {
+            "imagePath": "https://tmssl.akamaized.net/images/portrait/small/412669-1574782157.jpg?lm=1574782170",
+            "playerName": "Trincão",
+            "playerUrl": "/trincao/profil/spieler/412669",
+            "position": "Right Winger",
+            "age": "20",
+            "marketValue": "£14.40m",
+            "nat": [
+                "Portugal"
+            ],
+            "left": "Braga",
+            "fee": "£27.90m"
+        },
+        {
+            "imagePath": "https://tmssl.akamaized.net/images/portrait/small/351892-1542185494.jpg?lm=1542185502",
+            "playerName": "Matheus Fernandes",
+            "playerUrl": "/matheus-fernandes/profil/spieler/351892",
+            "position": "Central Midfield",
+            "age": "22",
+            "marketValue": "£2.88m",
+            "nat": [
+                "Brazil"
+            ],
+            "left": "Palmeiras",
+            "fee": "£6.30m"
+        },
+        {
+            "imagePath": "https://tmssl.akamaized.net/images/portrait/small/683840-1568274991.png?lm=1568275020",
+            "playerName": "Pedri",
+            "playerUrl": "/pedri/profil/spieler/683840",
+            "position": "Left Winger",
+            "age": "17",
+            "marketValue": "£6.48m",
+            "nat": [
+                "Spain"
+            ],
+            "left": "UD Las Palmas",
+            "fee": "£4.50m"
+        },
+        {
+            "imagePath": "https://tmssl.akamaized.net/images/portrait/small/282721-1527584622.jpg?lm=1527584629",
+            "playerName": "Oriol Busquets",
+            "playerUrl": "/oriol-busquets/profil/spieler/282721",
+            "position": "Defensive Midfield",
+            "age": "21",
+            "marketValue": "£2.07m",
+            "nat": [
+                "Spain"
+            ],
+            "left": "Twente FC",
+            "fee": "End of loanJun 30, 2020"
+        },
+        {
+            "imagePath": "https://tmssl.akamaized.net/images/portrait/small/605184-1580122383.jpg?lm=1580122417",
+            "playerName": "Jean-Clair Todibo",
+            "playerUrl": "/jean-clair-todibo/profil/spieler/605184",
+            "position": "Centre-Back",
+            "age": "20",
+            "marketValue": "£8.10m",
+            "nat": [
+                "France",
+                "French Guiana"
+            ],
+            "left": "FC Schalke 04",
+            "fee": "End of loanJun 30, 2020"
+        },
+        {
+            "imagePath": "https://tmssl.akamaized.net/images/portrait/small/80444-1570373072.jpg?lm=1570373083",
+            "playerName": "Philippe Coutinho",
+            "playerUrl": "/philippe-coutinho/profil/spieler/80444",
+            "position": "Attacking Midfield",
+            "age": "28",
+            "marketValue": "£50.40m",
+            "nat": [
+                "Brazil",
+                "Portugal"
+            ],
+            "left": "Bayern Munich",
+            "fee": "End of loanJun 30, 2020"
+        },
+        {
+            "imagePath": "https://tmssl.akamaized.net/images/portrait/small/284854-1510245088.jpg?lm=1510245121",
+            "playerName": "Carles Aleñá",
+            "playerUrl": "/carles-alena/profil/spieler/284854",
+            "position": "Central Midfield",
+            "age": "22",
+            "marketValue": "£16.20m",
+            "nat": [
+                "Spain"
+            ],
+            "left": "Real Betis",
+            "fee": "End of loanJun 30, 2020"
+        },
+        {
+            "imagePath": "https://tmssl.akamaized.net/images/portrait/small/364240-1503068100.jpg?lm=1503068143",
+            "playerName": "Moussa Wagué",
+            "playerUrl": "/moussa-wague/profil/spieler/364240",
+            "position": "Right-Back",
+            "age": "21",
+            "marketValue": "£6.03m",
+            "nat": [
+                "Senegal"
+            ],
+            "left": "OGC Nice",
+            "fee": "End of loanJun 30, 2020"
+        },
+        {
+            "imagePath": "https://tmssl.akamaized.net/images/portrait/small/284857-1525074875.jpg?lm=1525074895",
+            "playerName": "Marc Cucurella",
+            "playerUrl": "/marc-cucurella/profil/spieler/284857",
+            "position": "Left Midfield",
+            "age": "21",
+            "marketValue": "£16.20m",
+            "nat": [
+                "Spain"
+            ],
+            "left": "Getafe",
+            "fee": "End of loanJun 30, 2020"
+        },
+        {
+            "imagePath": "https://tmssl.akamaized.net/images/portrait/small/129473-1516959556.jpg?lm=1516959568",
+            "playerName": "Rafinha",
+            "playerUrl": "/rafinha/profil/spieler/129473",
+            "position": "Attacking Midfield",
+            "age": "27",
+            "marketValue": "£8.55m",
+            "nat": [
+                "Brazil",
+                "Spain"
+            ],
+            "left": "Celta de Vigo",
+            "fee": "End of loanJun 30, 2020"
+        },
+        {
+            "imagePath": "https://tmssl.akamaized.net/images/portrait/small/282810-1566761956.jpg?lm=1566761984",
+            "playerName": "Carles Pérez",
+            "playerUrl": "/carles-perez/profil/spieler/282810",
+            "position": "Right Winger",
+            "age": "22",
+            "marketValue": "£8.10m",
+            "nat": [
+                "Spain"
+            ],
+            "left": "AS Roma",
+            "fee": "End of loanJun 30, 2020"
+        }
+    ],
+    "departures": [
+        {
+            "imagePath": "https://tmssl.akamaized.net/images/portrait/small/282810-1566761956.jpg?lm=1566761984",
+            "playerName": "Carles Pérez",
+            "playerUrl": "/carles-perez/profil/spieler/282810",
+            "position": "Right Winger",
+            "age": "22",
+            "marketValue": "£8.10m",
+            "nat": [
+                "Spain"
+            ],
+            "left": "AS Roma",
+            "fee": "£9.90m"
+        },
+        {
+            "imagePath": "https://tmssl.akamaized.net/images/portrait/small/21369-1515403225.jpg?lm=1515403249",
+            "playerName": "Arda Turan",
+            "playerUrl": "/arda-turan/profil/spieler/21369",
+            "position": "Left Winger",
+            "age": "33",
+            "marketValue": "£585Th.",
+            "nat": [
+                "Turkey"
+            ],
+            "left": "Without Club",
+            "fee": "-"
+        }
+    ],
+    "meta": {
+        "arrivals": 11,
+        "departures": 2
+    }
+}

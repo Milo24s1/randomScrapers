@@ -1,0 +1,35 @@
+{
+    "arrivals": [
+        {
+            "imagePath": "https://tmssl.akamaized.net/images/portrait/small/341227-1558432765.jpg?lm=1558432779",
+            "playerName": "Juan Miranda",
+            "playerUrl": "/juan-miranda/profil/spieler/341227",
+            "position": "Left-Back",
+            "age": "21",
+            "marketValue": "£3.60m",
+            "nat": [
+                "Spain"
+            ],
+            "left": "FC Schalke 04",
+            "fee": "End of loanJun 30, 2021"
+        },
+        {
+            "imagePath": "https://tmssl.akamaized.net/images/portrait/small/476344-1553782032.jpg?lm=1553782046",
+            "playerName": "Emerson",
+            "playerUrl": "/emerson/profil/spieler/476344",
+            "position": "Right-Back",
+            "age": "22",
+            "marketValue": "£16.20m",
+            "nat": [
+                "Brazil"
+            ],
+            "left": "Real Betis",
+            "fee": "End of loanJun 30, 2021"
+        }
+    ],
+    "departures": [],
+    "meta": {
+        "arrivals": 2,
+        "departures": 0
+    }
+}

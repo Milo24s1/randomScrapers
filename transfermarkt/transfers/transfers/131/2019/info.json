@@ -1,0 +1,591 @@
+{
+    "arrivals": [
+        {
+            "imagePath": "https://tmssl.akamaized.net/images/portrait/small/125781-1564143733.jpg?lm=1564143749",
+            "playerName": "Antoine Griezmann",
+            "playerUrl": "/antoine-griezmann/profil/spieler/125781",
+            "position": "Second Striker",
+            "age": "28",
+            "marketValue": "£117.00m",
+            "nat": [
+                "France"
+            ],
+            "left": "Atlético Madrid",
+            "fee": "£108.00m"
+        },
+        {
+            "imagePath": "https://tmssl.akamaized.net/images/portrait/small/326330-1497885202.jpg?lm=1497885221",
+            "playerName": "Frenkie de Jong",
+            "playerUrl": "/frenkie-de-jong/profil/spieler/326330",
+            "position": "Central Midfield",
+            "age": "22",
+            "marketValue": "£76.50m",
+            "nat": [
+                "Netherlands"
+            ],
+            "left": "Ajax",
+            "fee": "£67.50m"
+        },
+        {
+            "imagePath": "https://tmssl.akamaized.net/images/portrait/small/111819-1448463847.jpg?lm=1448463862",
+            "playerName": "Neto",
+            "playerUrl": "/neto/profil/spieler/111819",
+            "position": "Goalkeeper",
+            "age": "29",
+            "marketValue": "£16.20m",
+            "nat": [
+                "Brazil",
+                "Italy"
+            ],
+            "left": "Valencia",
+            "fee": "£23.40m"
+        },
+        {
+            "imagePath": "https://tmssl.akamaized.net/images/portrait/small/374139-1528960946.jpg?lm=1528960958",
+            "playerName": "Júnior Firpo",
+            "playerUrl": "/junior-firpo/profil/spieler/374139",
+            "position": "Left-Back",
+            "age": "22",
+            "marketValue": "£22.50m",
+            "nat": [
+                "Spain",
+                "Dominican Republic"
+            ],
+            "left": "Real Betis",
+            "fee": "£16.20m"
+        },
+        {
+            "imagePath": "https://tmssl.akamaized.net/images/portrait/small/95732-1583334177.jpg?lm=1583334376",
+            "playerName": "Martin Braithwaite",
+            "playerUrl": "/martin-braithwaite/profil/spieler/95732",
+            "position": "Centre-Forward",
+            "age": "28",
+            "marketValue": "£9.00m",
+            "nat": [
+                "Denmark",
+                "Guyana"
+            ],
+            "left": "CD Leganés",
+            "fee": "£16.20m"
+        },
+        {
+            "imagePath": "https://tmssl.akamaized.net/images/portrait/small/476344-1553782032.jpg?lm=1553782046",
+            "playerName": "Emerson",
+            "playerUrl": "/emerson/profil/spieler/476344",
+            "position": "Right-Back",
+            "age": "20",
+            "marketValue": "£2.70m",
+            "nat": [
+                "Brazil"
+            ],
+            "left": "Atlético-MG",
+            "fee": "£10.80m"
+        },
+        {
+            "imagePath": "https://tmssl.akamaized.net/images/portrait/small/284857-1525074875.jpg?lm=1525074895",
+            "playerName": "Marc Cucurella",
+            "playerUrl": "/marc-cucurella/profil/spieler/284857",
+            "position": "Left Midfield",
+            "age": "20",
+            "marketValue": "£9.00m",
+            "nat": [
+                "Spain"
+            ],
+            "left": "SD Eibar",
+            "fee": "£3.60m"
+        },
+        {
+            "imagePath": "https://tmssl.akamaized.net/images/portrait/small/21369-1515403225.jpg?lm=1515403249",
+            "playerName": "Arda Turan",
+            "playerUrl": "/arda-turan/profil/spieler/21369",
+            "position": "Left Winger",
+            "age": "32",
+            "marketValue": "£720Th.",
+            "nat": [
+                "Turkey"
+            ],
+            "left": "Basaksehir",
+            "fee": "End of loanJan 4, 2020"
+        },
+        {
+            "imagePath": "https://tmssl.akamaized.net/images/portrait/small/282810-1566761956.jpg?lm=1566761984",
+            "playerName": "Carles Pérez",
+            "playerUrl": "/carles-perez/profil/spieler/282810",
+            "position": "Right Winger",
+            "age": "21",
+            "marketValue": "£1.35m",
+            "nat": [
+                "Spain"
+            ],
+            "left": "FC Barcelona B",
+            "fee": "-"
+        },
+        {
+            "imagePath": "https://tmssl.akamaized.net/images/portrait/small/466810-1560761660.jpg?lm=1560761677",
+            "playerName": "Ansu Fati",
+            "playerUrl": "/ansu-fati/profil/spieler/466810",
+            "position": "Left Winger",
+            "age": "16",
+            "marketValue": "-",
+            "nat": [
+                "Spain",
+                "Guinea-Bissau"
+            ],
+            "left": "Barça U19",
+            "fee": "-"
+        },
+        {
+            "imagePath": "https://tmssl.akamaized.net/images/portrait/small/282721-1527584622.jpg?lm=1527584629",
+            "playerName": "Oriol Busquets",
+            "playerUrl": "/oriol-busquets/profil/spieler/282721",
+            "position": "Defensive Midfield",
+            "age": "20",
+            "marketValue": "£2.25m",
+            "nat": [
+                "Spain"
+            ],
+            "left": "FC Barcelona B",
+            "fee": "-"
+        },
+        {
+            "imagePath": "https://tmssl.akamaized.net/images/portrait/small/341227-1558432765.jpg?lm=1558432779",
+            "playerName": "Juan Miranda",
+            "playerUrl": "/juan-miranda/profil/spieler/341227",
+            "position": "Left-Back",
+            "age": "19",
+            "marketValue": "£4.50m",
+            "nat": [
+                "Spain"
+            ],
+            "left": "FC Barcelona B",
+            "fee": "-"
+        },
+        {
+            "imagePath": "https://tmssl.akamaized.net/images/portrait/small/364240-1503068100.jpg?lm=1503068143",
+            "playerName": "Moussa Wagué",
+            "playerUrl": "/moussa-wague/profil/spieler/364240",
+            "position": "Right-Back",
+            "age": "20",
+            "marketValue": "£4.50m",
+            "nat": [
+                "Senegal"
+            ],
+            "left": "FC Barcelona B",
+            "fee": "-"
+        },
+        {
+            "imagePath": "https://tmssl.akamaized.net/images/portrait/small/443222-1532074440.jpg?lm=1532074455",
+            "playerName": "Marc Cardona",
+            "playerUrl": "/marc-cardona/profil/spieler/443222",
+            "position": "Centre-Forward",
+            "age": "23",
+            "marketValue": "£1.35m",
+            "nat": [
+                "Spain"
+            ],
+            "left": "SD Eibar",
+            "fee": "End of loanJun 30, 2019"
+        },
+        {
+            "imagePath": "https://tmssl.akamaized.net/images/portrait/small/221025-1447247163.jpg?lm=1447247198",
+            "playerName": "André Gomes",
+            "playerUrl": "/andre-gomes/profil/spieler/221025",
+            "position": "Central Midfield",
+            "age": "25",
+            "marketValue": "£25.20m",
+            "nat": [
+                "Portugal"
+            ],
+            "left": "Everton",
+            "fee": "End of loanJun 30, 2019"
+        },
+        {
+            "imagePath": "https://tmssl.akamaized.net/images/portrait/small/284857-1525074875.jpg?lm=1525074895",
+            "playerName": "Marc Cucurella",
+            "playerUrl": "/marc-cucurella/profil/spieler/284857",
+            "position": "Left Midfield",
+            "age": "20",
+            "marketValue": "£9.00m",
+            "nat": [
+                "Spain"
+            ],
+            "left": "SD Eibar",
+            "fee": "End of loanJun 30, 2019"
+        },
+        {
+            "imagePath": "https://tmssl.akamaized.net/images/portrait/small/142033-1490620560.jpg?lm=1490620574",
+            "playerName": "Adrián Ortolá",
+            "playerUrl": "/adrian-ortola/profil/spieler/142033",
+            "position": "Goalkeeper",
+            "age": "25",
+            "marketValue": "£900Th.",
+            "nat": [
+                "Spain"
+            ],
+            "left": "Dep. La Coruña",
+            "fee": "End of loanJun 30, 2019"
+        },
+        {
+            "imagePath": "https://tmssl.akamaized.net/images/portrait/small/126716-1567086685.jpg?lm=1567086741",
+            "playerName": "Paco Alcácer",
+            "playerUrl": "/paco-alcacer/profil/spieler/126716",
+            "position": "Centre-Forward",
+            "age": "25",
+            "marketValue": "£33.30m",
+            "nat": [
+                "Spain"
+            ],
+            "left": "Bor. Dortmund",
+            "fee": "End of loanJun 30, 2019"
+        },
+        {
+            "imagePath": "https://tmssl.akamaized.net/images/portrait/small/58426-1568212194.JPG?lm=1568212558",
+            "playerName": "Douglas",
+            "playerUrl": "/douglas/profil/spieler/58426",
+            "position": "Right-Back",
+            "age": "28",
+            "marketValue": "£1.80m",
+            "nat": [
+                "Brazil"
+            ],
+            "left": "Sivasspor",
+            "fee": "End of loanJun 30, 2019"
+        },
+        {
+            "imagePath": "https://tmssl.akamaized.net/images/portrait/small/268176-1534423482.jpg?lm=1534423520",
+            "playerName": "Sergi Palencia",
+            "playerUrl": "/sergi-palencia/profil/spieler/268176",
+            "position": "Right-Back",
+            "age": "23",
+            "marketValue": "£5.40m",
+            "nat": [
+                "Spain"
+            ],
+            "left": "G. Bordeaux",
+            "fee": "End of loanJun 30, 2019"
+        },
+        {
+            "imagePath": "https://tmssl.akamaized.net/images/portrait/small/165007-1447239749.jpg?lm=1447239790",
+            "playerName": "Denis Suárez",
+            "playerUrl": "/denis-suarez/profil/spieler/165007",
+            "position": "Left Winger",
+            "age": "25",
+            "marketValue": "£10.80m",
+            "nat": [
+                "Spain"
+            ],
+            "left": "Arsenal",
+            "fee": "End of loanJun 30, 2019"
+        }
+    ],
+    "departures": [
+        {
+            "imagePath": "https://tmssl.akamaized.net/images/portrait/small/323704-1572532976.png?lm=1572532987",
+            "playerName": "Malcom",
+            "playerUrl": "/malcom/profil/spieler/323704",
+            "position": "Right Winger",
+            "age": "22",
+            "marketValue": "£36.00m",
+            "nat": [
+                "Brazil"
+            ],
+            "left": "Zenit S-Pb",
+            "fee": "£36.00m"
+        },
+        {
+            "imagePath": "https://tmssl.akamaized.net/images/portrait/small/146227-1496144244.jpg?lm=1496144260",
+            "playerName": "Jasper Cillessen",
+            "playerUrl": "/jasper-cillessen/profil/spieler/146227",
+            "position": "Goalkeeper",
+            "age": "30",
+            "marketValue": "£16.20m",
+            "nat": [
+                "Netherlands"
+            ],
+            "left": "Valencia",
+            "fee": "£31.50m"
+        },
+        {
+            "imagePath": "https://tmssl.akamaized.net/images/portrait/small/221025-1447247163.jpg?lm=1447247198",
+            "playerName": "André Gomes",
+            "playerUrl": "/andre-gomes/profil/spieler/221025",
+            "position": "Central Midfield",
+            "age": "25",
+            "marketValue": "£25.20m",
+            "nat": [
+                "Portugal"
+            ],
+            "left": "Everton",
+            "fee": "£22.50m"
+        },
+        {
+            "imagePath": "https://tmssl.akamaized.net/images/portrait/small/126716-1567086685.jpg?lm=1567086741",
+            "playerName": "Paco Alcácer",
+            "playerUrl": "/paco-alcacer/profil/spieler/126716",
+            "position": "Centre-Forward",
+            "age": "25",
+            "marketValue": "£33.30m",
+            "nat": [
+                "Spain"
+            ],
+            "left": "Bor. Dortmund",
+            "fee": "£18.90m"
+        },
+        {
+            "imagePath": "https://tmssl.akamaized.net/images/portrait/small/165007-1447239749.jpg?lm=1447239790",
+            "playerName": "Denis Suárez",
+            "playerUrl": "/denis-suarez/profil/spieler/165007",
+            "position": "Left Winger",
+            "age": "25",
+            "marketValue": "£10.80m",
+            "nat": [
+                "Spain"
+            ],
+            "left": "Celta de Vigo",
+            "fee": "£11.61m"
+        },
+        {
+            "imagePath": "https://tmssl.akamaized.net/images/portrait/small/80444-1570373072.jpg?lm=1570373083",
+            "playerName": "Philippe Coutinho",
+            "playerUrl": "/philippe-coutinho/profil/spieler/80444",
+            "position": "Attacking Midfield",
+            "age": "27",
+            "marketValue": "£81.00m",
+            "nat": [
+                "Brazil",
+                "Portugal"
+            ],
+            "left": "Bayern Munich",
+            "fee": "Loan fee:£7.65m"
+        },
+        {
+            "imagePath": "https://tmssl.akamaized.net/images/portrait/small/476344-1553782032.jpg?lm=1553782046",
+            "playerName": "Emerson",
+            "playerUrl": "/emerson/profil/spieler/476344",
+            "position": "Right-Back",
+            "age": "20",
+            "marketValue": "£2.70m",
+            "nat": [
+                "Brazil"
+            ],
+            "left": "Real Betis",
+            "fee": "Loan fee:£5.40m"
+        },
+        {
+            "imagePath": "https://tmssl.akamaized.net/images/portrait/small/443222-1532074440.jpg?lm=1532074455",
+            "playerName": "Marc Cardona",
+            "playerUrl": "/marc-cardona/profil/spieler/443222",
+            "position": "Centre-Forward",
+            "age": "23",
+            "marketValue": "£1.35m",
+            "nat": [
+                "Spain"
+            ],
+            "left": "CA Osasuna",
+            "fee": "£2.25m"
+        },
+        {
+            "imagePath": "https://tmssl.akamaized.net/images/portrait/small/284857-1525074875.jpg?lm=1525074895",
+            "playerName": "Marc Cucurella",
+            "playerUrl": "/marc-cucurella/profil/spieler/284857",
+            "position": "Left Midfield",
+            "age": "20",
+            "marketValue": "£9.00m",
+            "nat": [
+                "Spain"
+            ],
+            "left": "SD Eibar",
+            "fee": "£1.80m"
+        },
+        {
+            "imagePath": "https://tmssl.akamaized.net/images/portrait/small/268176-1534423482.jpg?lm=1534423520",
+            "playerName": "Sergi Palencia",
+            "playerUrl": "/sergi-palencia/profil/spieler/268176",
+            "position": "Right-Back",
+            "age": "23",
+            "marketValue": "£5.40m",
+            "nat": [
+                "Spain"
+            ],
+            "left": "Saint-Étienne",
+            "fee": "£1.80m"
+        },
+        {
+            "imagePath": "https://tmssl.akamaized.net/images/portrait/small/605184-1580122383.jpg?lm=1580122417",
+            "playerName": "Jean-Clair Todibo",
+            "playerUrl": "/jean-clair-todibo/profil/spieler/605184",
+            "position": "Centre-Back",
+            "age": "20",
+            "marketValue": "£9.00m",
+            "nat": [
+                "France",
+                "French Guiana"
+            ],
+            "left": "FC Schalke 04",
+            "fee": "Loan fee:£1.35m"
+        },
+        {
+            "imagePath": "https://tmssl.akamaized.net/images/portrait/small/129473-1516959556.jpg?lm=1516959568",
+            "playerName": "Rafinha",
+            "playerUrl": "/rafinha/profil/spieler/129473",
+            "position": "Attacking Midfield",
+            "age": "26",
+            "marketValue": "£13.50m",
+            "nat": [
+                "Brazil",
+                "Spain"
+            ],
+            "left": "Celta de Vigo",
+            "fee": "Loan fee:£1.35m"
+        },
+        {
+            "imagePath": "https://tmssl.akamaized.net/images/portrait/small/282810-1566761956.jpg?lm=1566761984",
+            "playerName": "Carles Pérez",
+            "playerUrl": "/carles-perez/profil/spieler/282810",
+            "position": "Right Winger",
+            "age": "21",
+            "marketValue": "£9.00m",
+            "nat": [
+                "Spain"
+            ],
+            "left": "AS Roma",
+            "fee": "Loan fee:£900Th."
+        },
+        {
+            "imagePath": "https://tmssl.akamaized.net/images/portrait/small/364240-1503068100.jpg?lm=1503068143",
+            "playerName": "Moussa Wagué",
+            "playerUrl": "/moussa-wague/profil/spieler/364240",
+            "position": "Right-Back",
+            "age": "21",
+            "marketValue": "£6.75m",
+            "nat": [
+                "Senegal"
+            ],
+            "left": "OGC Nice",
+            "fee": "Loan"
+        },
+        {
+            "imagePath": "https://tmssl.akamaized.net/images/portrait/small/58426-1568212194.JPG?lm=1568212558",
+            "playerName": "Douglas",
+            "playerUrl": "/douglas/profil/spieler/58426",
+            "position": "Right-Back",
+            "age": "28",
+            "marketValue": "£1.80m",
+            "nat": [
+                "Brazil"
+            ],
+            "left": "Besiktas",
+            "fee": "Free transfer"
+        },
+        {
+            "imagePath": "https://tmssl.akamaized.net/images/portrait/small/142033-1490620560.jpg?lm=1490620574",
+            "playerName": "Adrián Ortolá",
+            "playerUrl": "/adrian-ortola/profil/spieler/142033",
+            "position": "Goalkeeper",
+            "age": "25",
+            "marketValue": "£900Th.",
+            "nat": [
+                "Spain"
+            ],
+            "left": "CD Tenerife",
+            "fee": "Free transfer"
+        },
+        {
+            "imagePath": "https://tmssl.akamaized.net/images/portrait/small/15904-1464867040.jpg?lm=1464867052",
+            "playerName": "Thomas Vermaelen",
+            "playerUrl": "/thomas-vermaelen/profil/spieler/15904",
+            "position": "Centre-Back",
+            "age": "33",
+            "marketValue": "£2.25m",
+            "nat": [
+                "Belgium"
+            ],
+            "left": "Vissel Kobe",
+            "fee": "Free transfer"
+        },
+        {
+            "imagePath": "https://tmssl.akamaized.net/images/portrait/small/284854-1510245088.jpg?lm=1510245121",
+            "playerName": "Carles Aleñá",
+            "playerUrl": "/carles-alena/profil/spieler/284854",
+            "position": "Central Midfield",
+            "age": "21",
+            "marketValue": "£18.00m",
+            "nat": [
+                "Spain"
+            ],
+            "left": "Real Betis",
+            "fee": "Loan"
+        },
+        {
+            "imagePath": "https://tmssl.akamaized.net/images/portrait/small/341227-1558432765.jpg?lm=1558432779",
+            "playerName": "Juan Miranda",
+            "playerUrl": "/juan-miranda/profil/spieler/341227",
+            "position": "Left-Back",
+            "age": "19",
+            "marketValue": "£4.50m",
+            "nat": [
+                "Spain"
+            ],
+            "left": "FC Schalke 04",
+            "fee": "Loan"
+        },
+        {
+            "imagePath": "https://tmssl.akamaized.net/images/portrait/small/284857-1525074875.jpg?lm=1525074895",
+            "playerName": "Marc Cucurella",
+            "playerUrl": "/marc-cucurella/profil/spieler/284857",
+            "position": "Left Midfield",
+            "age": "20",
+            "marketValue": "£9.00m",
+            "nat": [
+                "Spain"
+            ],
+            "left": "Getafe",
+            "fee": "Loan"
+        },
+        {
+            "imagePath": "https://tmssl.akamaized.net/images/portrait/small/282721-1527584622.jpg?lm=1527584629",
+            "playerName": "Oriol Busquets",
+            "playerUrl": "/oriol-busquets/profil/spieler/282721",
+            "position": "Defensive Midfield",
+            "age": "20",
+            "marketValue": "£2.25m",
+            "nat": [
+                "Spain"
+            ],
+            "left": "Twente FC",
+            "fee": "Loan"
+        },
+        {
+            "imagePath": "https://tmssl.akamaized.net/images/portrait/small/131102-1448966897.jpg?lm=1448966917",
+            "playerName": "Jeison Murillo",
+            "playerUrl": "/jeison-murillo/profil/spieler/131102",
+            "position": "Centre-Back",
+            "age": "27",
+            "marketValue": "£9.00m",
+            "nat": [
+                "Colombia",
+                "Spain"
+            ],
+            "left": "Valencia",
+            "fee": "End of loanJun 30, 2019"
+        },
+        {
+            "imagePath": "https://tmssl.akamaized.net/images/portrait/small/16922-1581703022.png?lm=1581703044",
+            "playerName": "Kevin-Prince Boateng",
+            "playerUrl": "/kevin-prince-boateng/profil/spieler/16922",
+            "position": "Attacking Midfield",
+            "age": "32",
+            "marketValue": "£6.30m",
+            "nat": [
+                "Ghana",
+                "Germany"
+            ],
+            "left": "Sassuolo",
+            "fee": "End of loanJun 30, 2019"
+        }
+    ],
+    "meta": {
+        "arrivals": 21,
+        "departures": 23
+    }
+}
